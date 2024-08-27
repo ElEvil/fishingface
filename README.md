@@ -1,4 +1,4 @@
-# Fishing de Pagina de Facebook
+# Phishing de Pagina de Facebook
 
 ## Descripción
 El phishing es un tipo común de ciberataque que se dirige a las personas a través del correo electrónico, mensajes de texto, llamadas telefónicas y otras formas de comunicación. El término phishing en inglés se pronuncia igual que la palabra fishing, literalmente pescar. Un ataque de phishing tiene como objetivo engañar al destinatario para que realice la acción deseada por el atacante, como revelar información financiera, credenciales de acceso al sistema u otra información sensible.
