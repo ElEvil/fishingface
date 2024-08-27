@@ -2,7 +2,7 @@
 
 ## Descripción
 El phishing es un tipo común de ciberataque que se dirige a las personas a través del correo electrónico, mensajes de texto, llamadas telefónicas y otras formas de comunicación. El término phishing en inglés se pronuncia igual que la palabra fishing, literalmente pescar. Un ataque de phishing tiene como objetivo engañar al destinatario para que realice la acción deseada por el atacante, como revelar información financiera, credenciales de acceso al sistema u otra información sensible.
-Este archivo es parte de un ejercicio educativo diseñado para aumentar la conciencia sobre el phishing y ayudar a los usuarios a reconocer las señales de posibles ataques. No se debe utilizar con fines maliciosos o ilegales.
+Este archivo es parte de un ejercicio educativo diseñado para aumentar la conciencia sobre el phishing y ayudar a los usuarios a reconocer las señales de posibles ataques. No se debe utilizar con Fines maliciosos o ilegales.
 Por lo cual este archivo no se podra abrir desde la nube y todo se tendra que hacer de manera local.
 
 ## Vector inicial
