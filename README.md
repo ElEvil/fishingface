@@ -13,12 +13,12 @@ Por lo cual este archivo no se podra abrir desde la nube y todo se tendra que ha
 
 ### 1. Requisitos Previos
 
-- Tener Xammp con los servicios de apache y mysql preferiblemente o tener los servicios de programas siguientes:
+- Tener Xammp con los servicios de Apache y MySQL preferiblemente o tener los servicios de programas siguientes:
 * Tener instalado algun servidor de php.
 * Tener un editor de mysql.
 
 ### 2. Instalacion
-- En caso de tener Xammp seguir las siguientes intrucciones en caso de no tener instalarla utilizar su equivalente.
+- En caso de tener Xammp seguir las siguientes intrucciones en caso de no tener instalarla utilizando su equivalente.
 * La carpeta Prueba-Facebook debe de estar dentro de la carpeta htdocs un ejemplo de ruta donde debe de estar es: C:\xampp\htdocs\
 * Una vez guardada la carpeta en la ruta ejecute Xammp y encienda los servicios de Apache y MySQL.
 * Dentro de su navegador en escriba en el navegador http://localhost/Prueba-Facebook/ deberia de estar la representacion de la pagina de Facebook.
